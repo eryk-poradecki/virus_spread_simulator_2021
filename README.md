@@ -24,4 +24,4 @@ You can install the required dependencies using pip:
 
 To run the simulation, execute the `covid.py` file and follow the instructions:
     
-    python covid.py
+    python src/covid.py
